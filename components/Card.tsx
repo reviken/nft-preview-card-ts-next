@@ -53,7 +53,7 @@ export default function Card() {
         </div>
 
         {/* Creator info */}
-        <div className="flex gap-200 items-center">
+        <div className="pt-300 border-t-[1px] border-blue-800 flex gap-200 items-center">
           <Image
             src={avatarImage}
             alt="Jules Wyvern"

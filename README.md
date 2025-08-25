@@ -25,4 +25,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/reviken/nft-preview-card-ts-next](https://github.com/reviken/nft-preview-card-ts-next)
-- Live Site URL: [https://nft-preview-card-ts-next-36sjq7x9w.vercel.app](https://nft-preview-card-ts-next-36sjq7x9w.vercel.app)
+- Live Site URL: [https://nft-preview-card-ts-next-iacy12e76.vercel.app](https://nft-preview-card-ts-next-iacy12e76.vercel.app)
